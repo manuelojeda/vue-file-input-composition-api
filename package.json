@@ -1,5 +1,5 @@
 {
-  "name": "vue-simple-file-input",
+  "name": "vue-file-input-composition-api",
   "version": "1.0.0",
   "license": "MIT",
   "description": "A Simple File Input with Vue Composition API",
