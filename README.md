@@ -1,4 +1,4 @@
-# vue--file-input-composition-api
+# vue-file-input-composition-api
 
 Simple file input made for Vue.js, just install and add a v-model to the component. This accept a variety of files types. Be confidente to ask more file inputs at twitter to [@mrdarkjeda](https://www.twitter.com/@mrdarkjeda)
 
