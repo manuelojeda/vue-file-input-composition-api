@@ -6,13 +6,14 @@ Simple file input made for Vue.js, just install and add a v-model to the compone
 
 As usual, just use
 ```
-npm i vue-simple-file-input
+npm i -D @vue/composition-api
+npm i vue-file-input-composition-api
 ```
 
 ## Usage
 In any .vue component file just add the import for the component, by example
 ```js
-import FileInput from 'vue-simple-file-input'
+import FileInput from 'vue-file-input-composition-api'
 ```
 
 and add it in your components section as:
